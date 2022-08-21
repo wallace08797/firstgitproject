@@ -4,4 +4,7 @@ fun main() {
     var b=7
     var c=a+b
     println("answer is $c")
+
+    var d=a-b
+    println("answer is $d")
 }
